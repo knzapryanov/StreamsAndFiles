@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem1OddLines\bin\Debug\Problem1OddLines.exe.config
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem1OddLines\bin\Debug\Problem1OddLines.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem1OddLines\bin\Debug\Problem1OddLines.pdb
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem1OddLines\obj\Debug\Problem1OddLines.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem1OddLines\obj\Debug\Problem1OddLines.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem1OddLines\obj\Debug\Problem1OddLines.pdb

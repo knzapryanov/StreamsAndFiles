@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem7DirectoryTraversal\bin\Debug\Problem7DirectoryTraversal.exe.config
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem7DirectoryTraversal\bin\Debug\Problem7DirectoryTraversal.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem7DirectoryTraversal\bin\Debug\Problem7DirectoryTraversal.pdb
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem7DirectoryTraversal\obj\Debug\Problem7DirectoryTraversal.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem7DirectoryTraversal\obj\Debug\Problem7DirectoryTraversal.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem7DirectoryTraversal\obj\Debug\Problem7DirectoryTraversal.pdb

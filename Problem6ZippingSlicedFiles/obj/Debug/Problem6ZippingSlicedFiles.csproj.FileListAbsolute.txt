@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem6ZippingSlicedFiles\bin\Debug\Problem6ZippingSlicedFiles.exe.config
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem6ZippingSlicedFiles\bin\Debug\Problem6ZippingSlicedFiles.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem6ZippingSlicedFiles\bin\Debug\Problem6ZippingSlicedFiles.pdb
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem6ZippingSlicedFiles\obj\Debug\Problem6ZippingSlicedFiles.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem6ZippingSlicedFiles\obj\Debug\Problem6ZippingSlicedFiles.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem6ZippingSlicedFiles\obj\Debug\Problem6ZippingSlicedFiles.pdb

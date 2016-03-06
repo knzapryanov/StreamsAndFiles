@@ -1,0 +1,1 @@
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem4CopyBinaryFile\bin\Debug\Problem4CopyBinaryFile.exe.config

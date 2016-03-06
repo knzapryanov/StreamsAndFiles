@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem5SlicingFiles\bin\Debug\Problem5SlicingFiles.exe.config
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem5SlicingFiles\bin\Debug\Problem5SlicingFiles.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem5SlicingFiles\bin\Debug\Problem5SlicingFiles.pdb
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem5SlicingFiles\obj\Debug\Problem5SlicingFiles.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem5SlicingFiles\obj\Debug\Problem5SlicingFiles.exe
+C:\Users\User\Desktop\SoftUni Fundamentals level\Advanced C#\6. StreamsAndFiles\StreamsAndFiles\Problem5SlicingFiles\obj\Debug\Problem5SlicingFiles.pdb
